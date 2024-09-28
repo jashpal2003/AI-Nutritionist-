@@ -9,3 +9,4 @@ This project is a Streamlit application that uses Google's Generative AI to anal
 - Get a detailed calorie count and analysis of the food items in the image.
 - Receive suggestions based on the analysis.
 
+![image](https://github.com/user-attachments/assets/dbdce127-2342-4b41-8620-22b69d7c8a19)
