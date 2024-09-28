@@ -9,9 +9,3 @@ This project is a Streamlit application that uses Google's Generative AI to anal
 - Get a detailed calorie count and analysis of the food items in the image.
 - Receive suggestions based on the analysis.
 
-## Installation
-
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/yourusername/ai-nutritionist-app.git
-   cd ai-nutritionist-app
